@@ -1,4 +1,4 @@
- ![Paulo]()
+ ![Banner](https://raw.githubusercontent.com/paulorick7/paulorick7/main/assets/banner.jpg)
 
  
  Welcome 👋
