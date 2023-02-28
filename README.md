@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏻‍💻  About Me
+### 👨🏻‍💻  About Me
 🧒🏻  My name is Paulo Ricardo and I'm studying to become a Frontend Developer
 🎓  Graduated in Computer Science at Universidade do Algarve
 📺  In my free time, I like to study new things and discover new places in the city
@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 Night Coding
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
+IMAGE
 
+
+### 🤝🏻  Connect with Me
