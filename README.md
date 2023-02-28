@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍💻  About Me
-🧒🏻  My name is Paulo Ricardo and I'm studying to become a Frontend Developer\
-🎓  Graduated in Computer Science at Universidade do Algarve\
-📺  In my free time, I like to study new things and discover new places in the city\
-✉️  You can shoot me a message on my LinkedIn and I'll respond as soon as I can.\
+🧒🏻  My name is Paulo Ricardo and I'm studying to become a Frontend Developer.\
+🎓  Graduated in Computer Science at Universidade do Algarve.\
+📺  In my free time, I like to study new things and discover new places in the city.\
+✉️  You can shoot me a message on my LinkedIn and I'll respond as soon as I can.
 
 Night Coding
 
