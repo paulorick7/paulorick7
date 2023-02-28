@@ -11,7 +11,7 @@
 📺  In my free time, I like to study new things and discover new places in the city.\
 ✉️  You can shoot me a message on my LinkedIn and I'll respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/paulorick7/paulorick7/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/paulorick7/paulorick7/main/assets/Night-Coding.gif" align="right"/>
 
 
 ### 🛠️ Tech Stack
